@@ -1,6 +1,6 @@
 # Data_Science
 
-## Data Science Libraries
+## All Data Science Libraries explained
 1.	NumPy – Arrays, broadcasting, vectorized operations
 2.	Pandas – DataFrames, groupby, merging, time series
 3.	Matplotlib & Seaborn – Data visualization
