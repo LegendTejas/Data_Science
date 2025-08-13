@@ -7,6 +7,7 @@ This project demonstrates how to:
 
 ## How to Run
 **1.** save the main.py file in your code editor
+
 **2.** Use the menu:
 
     1 → Creates data.json
