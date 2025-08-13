@@ -1,0 +1,11 @@
+{
+    "name": "Tejas",
+    "age": 21,
+    "course": "B.Tech CSE - AI & Data Engineering",
+    "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning"
+    ],
+    "is_graduated": false
+}
